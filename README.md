@@ -10,5 +10,8 @@
 5. run it (py bot.py) and try /myping
 6. Enjoy
 
-> **NOTE : MAKE SURE U INSTALL PYTHON AND GIVE THE BOTS ADMINISTRATOR ROLE** 
+> **NOTE : MAKE SURE U INSTALL PYTHON AND GIVE THE BOTS ADMINISTRATOR ROLE**
 
+# explanation
+1. for example1.py, deleting messages from the link sent requires channel_id so you can only use 1 channel
+2. for example2.py, it deletes messages from the link sent without channel_id so it works for all channels
